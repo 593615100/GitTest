@@ -1,12 +1,13 @@
-// GitTest.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// GitTest.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
-
+#include<stdlib.h>
 
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("%s","ljt");
+	system("pause");
 	return 0;
 }
 
